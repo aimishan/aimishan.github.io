@@ -1,47 +1,41 @@
 ---
 layout: default
 ---
-<div class="container">
-	<header class="clearfix">
-		<h1>{{ site.name }}</h1>
-	</header>
-	<div id="grid-gallery" class="grid-gallery">
 
-	<section class="grid-wrap">
-	<ul class="grid">
-		<li class="grid-sizer"></li><!-- for Masonry column width -->
-		{% for post in site.posts %}
-		<li>
-			<figure>
-				<img src="{{ site.url }}/img/thumb/{{ post.photo }}" alt="img"/>
-				<figcaption>
-					<h3>{{ post.caption_header}}</h3>
-					<p>{{ post.caption }}</p>
-				</figcaption>
-			</figure>
-		</li>
-		{% endfor %}
-	</ul>
-	</section><!-- // grid-wrap -->
 
-	<section class="slideshow">
-	<ul>
-		{% for post in site.posts %}
-		<li>
-			<figure>
-				<img src="{{ site.url }}/img/large/{{ post.photo }}" alt="img"/>
-				<figcaption><h3>{{ post.caption_header}}</h3><p>{{ post.caption }}</p></figcaption>
-			</figure>
-		</li>
-		{% endfor %}
-	</ul>
-	<nav>
-		<span class="icon nav-prev"></span>
-		<span class="icon nav-next"></span>
-		<span class="icon nav-close"></span>
-	</nav>
-	<div class="info-keys icon">Navigate with arrow keys</div>
-	</section><!-- // slideshow -->
+<!-- Main -->
+<div id="main">
+    <section>
+        {% for post in site.posts limit:1 %}
+            <header class="major">
+                <h2>{{ post.title }}</h2>
+                <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+            </header>
 
-	</div><!-- // grid-gallery -->
+            <section>
+                {{ post.content }}
+            </section>
+        {% endfor %}
+    </section>
+    <section>
+        <div class="row">
+            {% for post in site.posts offset:1 %}
+
+                <article class="{% cycle '6u', '6u$' %} 12u(small)">
+                    <header>
+                        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+                    </header>
+                    <section>
+                        {{ post.excerpt }}
+                    </section>
+                    <footer>
+                        <ul class="actions">
+                            <li><a href="{{ post.url }}" class="button">Read More</a></li>
+                        </ul>
+                    </footer>
+                </article>
+
+            {% endfor %}
+        </div>
+    </section>
 </div>
