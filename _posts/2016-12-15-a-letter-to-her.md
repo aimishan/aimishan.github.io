@@ -15,34 +15,24 @@ description: 那一路上，他遇见、错过了许多人
 其实那份最早发现单词的乐趣来源于一本编程的书。书中作者推荐了一种字体，叫DejaVu Sans Mono，他解释说，deja vu是似曾相识的意思。他很是高兴，如同发现了新大陆一般，从此爱上了翻阅词典。在love词条的不远，是lovelorn。那时候他尝试用英文写日记，却常常遇到不会写的单词，lovelorn便在其中。那是单相思的意思。仿佛从他发现“喜欢”这种感觉以来，他就学会单相思了，而且，也从来只是单相思。胆小到不敢告诉她对她的好感，有时候甚至不敢走近。像是负罪一般，自卑将他压迫得远离所有需要自信的事情。所以他一直是卑微地喜欢着，卑微到尘埃的那一角。
 
 再后来，也有joie de vivre和rejoice这样的单词闯进来。那是他在抄一首诗的时候发现的。诗的名字他还记得，叫做*The Square Root of Three*，里面写道：
->I'm sure I will always be a lonely number like root three
->
->The three is all that's good and right
->
->Why my three keep out of sight beneath the vicious square root sign
->
->I wish instead I were a nine
->
->For nine could thwart this evil trick, with just some quick arithmetic
->
->I know I'll never see the sun, as one-point-seven-three-two-one......
->
->Such is my reality, a sad irrationallity
->
->When hark! What is this I see, another square root of a three
->
->As quietly co-waltzing by, together now we multiply
->
->To form a number we prefer, rejoice as an integer
->
->We break free from our mortal bonds, with the wave of magic wands
->
->Our square root signs become unglued
->
->Your love for me has been renewed! 
+
+	I'm sure I will always be a lonely number like root three	
+	The three is all that's good and right
+	Why my three keep out of sight beneath the vicious square root sign
+	I wish instead I were a nine
+	For nine could thwart this evil trick, with just some quick arithmetic
+	I know I'll never see the sun, as one-point-seven-three-two-one......
+	Such is my reality, a sad irrationallity
+	When hark! What is this I see, another square root of a three
+	As quietly co-waltzing by, together now we multiply
+	To form a number we prefer, rejoice as an integer
+	We break free from our mortal bonds, with the wave of magic wands
+	Our square root signs become unglued
+	Your love for me has been renewed! 
 
 这首诗他还记在有她的文字的角落。欢呼雀跃吧，他也尝这样想过，却渐渐地已经失去那种资格。三毛以前写过说：
->我每想念你一次，天空便落下一粒沙，从此便形成了撒哈拉
+
+	我每想念你一次，天空便落下一粒沙，从此便形成了撒哈拉
 
 爱是很美好很美好的事物，但是一旦失去它，就成了不能承受的痛苦了吧。高中时他的同桌告诉他，当有一天他意识到他最终会失去一样东西的时候，他会在那之前主动丢弃它的。那人呢？他问他，同桌回答说，也会是那样吧。青春留给他很多谜题，他没有固执地去寻求答案。就那样吧，他跟自己这样说道。他肯定自己一定会失去爱情，倒不如从一开始就不追求它。只是他总会想到她。所幸她再也不回来了。
 
@@ -52,14 +42,15 @@ description: 那一路上，他遇见、错过了许多人
 >如果所有的地下铁都连在一起，我是不是可以到达世界的每一个角落？
 
 他不停地做梦，梦见他在用双脚丈量世界的广度。尽管醒来以后，悉是惘然。梦想，每个人都在谈论梦想。他却不，他亲手击碎了小时候编织的梦，然后他说，滚吧，懦夫。《深夜食堂》里有一句话说：
->あなたのこと忘れたわけじゃなかったけど，きにする余裕何かなかった。
->
->我虽然没有忘记你，却也没有在意你的力气了。
+
+	あなたのこと忘れたわけじゃなかったけど，きにする余裕何かなかった。
+	我虽然没有忘记你，却也没有在意你的力气了。
 
 他喜欢这句话。他想对她说出这句话。他也想对自己残破不堪的梦想说出这句话。到最终，也只有他听得见。
 
 老家的附近一处公园，老人们会聚集在广场上跳舞，路上也多是散步的行人。他和父母亲也是如此。毕业以后，他如释重负，和父母亲终于不那么忧心忡忡地说着话。他畅想起自己的未来，还许诺下自己的前程。现在回头再看，那真是撒下的一个绚烂的谎言。临近离开的日子，他自己也去公园里走一走。就要离别了，他说不出自己是高兴，还是压抑，但总之就是忐忑的。他回想起父母亲叹气的模样，如同《童年》里外祖父叹气的那样：
->去吧，到人间去吧。
+
+	去吧，到人间去吧。
 
 于是他来到了人间。他还记得她上学时常常要经过的位置，于是他总会绕着路，期盼能够遇见她。兴许就是那样才养成的散步的习惯吧。
 
