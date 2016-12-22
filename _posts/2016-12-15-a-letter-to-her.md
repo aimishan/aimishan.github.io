@@ -16,41 +16,55 @@ description: 那一路上，他遇见、错过了许多人
 
 再后来，也有joie de vivre和rejoice这样的单词闯进来。那是他在抄一首诗的时候发现的。诗的名字他还记得，叫做*The Square Root of Three*，里面写道：
 
-	I'm sure I will always be a lonely number like root three	
-	The three is all that's good and right
-	Why my three keep out of sight beneath the vicious square root sign
-	I wish instead I were a nine
-	For nine could thwart this evil trick, with just some quick arithmetic
-	I know I'll never see the sun, as one-point-seven-three-two-one......
-	Such is my reality, a sad irrationallity
-	When hark! What is this I see, another square root of a three
-	As quietly co-waltzing by, together now we multiply
-	To form a number we prefer, rejoice as an integer
-	We break free from our mortal bonds, with the wave of magic wands
-	Our square root signs become unglued
-	Your love for me has been renewed! 
+>I'm sure I will always be a lonely number like root three	
+
+>The three is all that's good and right
+
+>Why my three keep out of sight beneath the vicious square root sign
+
+>I wish instead I were a nine
+
+>For nine could thwart this evil trick, with just some quick arithmetic
+
+>I know I'll never see the sun, as one-point-seven-three-two-one......
+
+>Such is my reality, a sad irrationallity
+
+>When hark! What is this I see, another square root of a three
+
+>As quietly co-waltzing by, together now we multiply
+
+>To form a number we prefer, rejoice as an integer
+
+>We break free from our mortal bonds, with the wave of magic wands
+
+>Our square root signs become unglued
+
+>Your love for me has been renewed! 
 
 这首诗他还记在有她的文字的角落。欢呼雀跃吧，他也尝这样想过，却渐渐地已经失去那种资格。三毛以前写过说：
 
-	我每想念你一次，天空便落下一粒沙，从此便形成了撒哈拉
+>我每想念你一次，天空便落下一粒沙，从此便形成了撒哈拉
 
 爱是很美好很美好的事物，但是一旦失去它，就成了不能承受的痛苦了吧。高中时他的同桌告诉他，当有一天他意识到他最终会失去一样东西的时候，他会在那之前主动丢弃它的。那人呢？他问他，同桌回答说，也会是那样吧。青春留给他很多谜题，他没有固执地去寻求答案。就那样吧，他跟自己这样说道。他肯定自己一定会失去爱情，倒不如从一开始就不追求它。只是他总会想到她。所幸她再也不回来了。
 
 日语则是新的领域。他不满于教科书上的词汇，转而也采用了和英语一样的方法。不过他的收获并没有那么多，对日语的学习时断时续是一个原因，与他的懈怠和虚妄不无关系。进入大学以后，时间被莫名其妙地挤占，于是他也以此为理由，远离了原先的那个自我。越来越少地散步，写东西，甚至是看书。你在做什么？他问自己。讽刺的是，他已经听不见自己的心声了。想写写柏油路旁落叶凋零的银杏树，想写写进来发生的事情，往往刚提起笔来又落下。秋天还是那个秋天，可却萧瑟得不比寻常。
 
 他现在生活在没有繁星的城市。以前他在给她的信里说，我们都还可以看到一样的月亮啊，还有那颗最亮的一等星，我在想念你的时候就看着它们，你也一样，想来我也可以从那星空发现你的身影吧。后来他失去了夜晚所有的亮光。几米的《星空》讲述的是孤独的故事。他仿佛也是里面的主人公，孑然走在繁闹的街头。但他也曾感到过幸运，那是《地下铁》带给他的感觉。他有一双能够仰望天空的眼睛，盲女却不能。
+
 >如果所有的地下铁都连在一起，我是不是可以到达世界的每一个角落？
 
 他不停地做梦，梦见他在用双脚丈量世界的广度。尽管醒来以后，悉是惘然。梦想，每个人都在谈论梦想。他却不，他亲手击碎了小时候编织的梦，然后他说，滚吧，懦夫。《深夜食堂》里有一句话说：
 
-	あなたのこと忘れたわけじゃなかったけど，きにする余裕何かなかった。
-	我虽然没有忘记你，却也没有在意你的力气了。
+>あなたのこと忘れたわけじゃなかったけど，きにする余裕何かなかった。
+
+>我虽然没有忘记你，却也没有在意你的力气了。
 
 他喜欢这句话。他想对她说出这句话。他也想对自己残破不堪的梦想说出这句话。到最终，也只有他听得见。
 
 老家的附近一处公园，老人们会聚集在广场上跳舞，路上也多是散步的行人。他和父母亲也是如此。毕业以后，他如释重负，和父母亲终于不那么忧心忡忡地说着话。他畅想起自己的未来，还许诺下自己的前程。现在回头再看，那真是撒下的一个绚烂的谎言。临近离开的日子，他自己也去公园里走一走。就要离别了，他说不出自己是高兴，还是压抑，但总之就是忐忑的。他回想起父母亲叹气的模样，如同《童年》里外祖父叹气的那样：
 
-	去吧，到人间去吧。
+>去吧，到人间去吧。
 
 于是他来到了人间。他还记得她上学时常常要经过的位置，于是他总会绕着路，期盼能够遇见她。兴许就是那样才养成的散步的习惯吧。
 
