@@ -17,29 +17,29 @@ description: 那一路上，他遇见、错过了许多人
 再后来，也有joie de vivre和rejoice这样的单词闯进来。那是他在抄一首诗的时候发现的。诗的名字他还记得，叫做*The Square Root of Three*，里面写道：
 
 >I'm sure I will always be a lonely number like root three	
-
+> 
 >The three is all that's good and right
-
+> 
 >Why my three keep out of sight beneath the vicious square root sign
-
+> 
 >I wish instead I were a nine
-
+> 
 >For nine could thwart this evil trick, with just some quick arithmetic
-
+> 
 >I know I'll never see the sun, as one-point-seven-three-two-one......
-
+> 
 >Such is my reality, a sad irrationallity
-
+> 
 >When hark! What is this I see, another square root of a three
-
+> 
 >As quietly co-waltzing by, together now we multiply
-
+> 
 >To form a number we prefer, rejoice as an integer
-
+> 
 >We break free from our mortal bonds, with the wave of magic wands
-
+> 
 >Our square root signs become unglued
-
+> 
 >Your love for me has been renewed! 
 
 这首诗他还记在有她的文字的角落。欢呼雀跃吧，他也尝这样想过，却渐渐地已经失去那种资格。三毛以前写过说：
@@ -57,7 +57,7 @@ description: 那一路上，他遇见、错过了许多人
 他不停地做梦，梦见他在用双脚丈量世界的广度。尽管醒来以后，悉是惘然。梦想，每个人都在谈论梦想。他却不，他亲手击碎了小时候编织的梦，然后他说，滚吧，懦夫。《深夜食堂》里有一句话说：
 
 >あなたのこと忘れたわけじゃなかったけど，きにする余裕何かなかった。
-
+> 
 >我虽然没有忘记你，却也没有在意你的力气了。
 
 他喜欢这句话。他想对她说出这句话。他也想对自己残破不堪的梦想说出这句话。到最终，也只有他听得见。
