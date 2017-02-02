@@ -3,7 +3,7 @@ layout: post
 title: "归途"
 data: 2017-01-28
 tag: Records
-description: A journey to home
+description: A journey home
 ---
 
 犀浦地铁站
