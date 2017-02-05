@@ -4,7 +4,7 @@ title: About
 
 ---
 
-Aimishan's Lonely Park
+艾米山的写字台
 ====
 
 Thanks for browsing my website.
